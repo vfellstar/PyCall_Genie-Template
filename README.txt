@@ -5,7 +5,7 @@ To Create Dockerfile Genie:
 > using GenieDeployDocker; GenieDeployDocker.dockerfile()
 
 ##### ALTER Dockerfile to install PyCall
-
+#
 # install miniconda3
 #  RUN curl -O https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
 #  RUN bash Miniconda3-latest-Linux-x86_64.sh -b -p /home/USERNAME/miniconda3
